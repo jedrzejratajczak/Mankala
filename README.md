@@ -5,7 +5,3 @@ Game implementation contains different AI algorithms - Min-Max and Alfa-Beta wit
 
 ## Screenshots
 ![App Sample Screen](readme/screen.png)
-
-
-## Contact
-Created by **Jędrzej Ratajczak** ([@nilphym](https://github.com/nilphym)) - feel free to contact me!
